@@ -1,5 +1,4 @@
 // -*- firestarter: (compile "(cd build/; make)") -*-
-
 #if !defined(HELLO_WORLD_H)
 #define HELLO_WORLD_H
 
